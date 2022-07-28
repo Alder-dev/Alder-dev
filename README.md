@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alder-dev
-- 👀 I’m interested in mobile and web dev
-- 🌱 I’m currently learning 
+- 👀 I’m interested in web dev
+- 🌱 I’m currently cross platform development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
