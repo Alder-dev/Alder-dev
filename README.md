@@ -15,19 +15,6 @@ I love building clean, efficient, and scalable digital solutions — from web ap
 
 ---
 
-## 🔧 Featured Projects
-- [🎬 PeliculasAPI](https://github.com/Alder-dev/PeliculasAPI) — Movie API built with ASP.NET Core  
-- [🧾 inventario-bk](https://github.com/Alder-dev/inventario-bk) — Inventory system backend in TypeScript  
-- [🌐 myportfolio](https://github.com/Alder-dev/myportfolio) — Personal portfolio website  
-- [⚙️ Sysges](https://github.com/Alder-dev/Sysges) — Management system (full stack)
-
----
-
-## 📊 GitHub Stats
-![Alder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alder-dev&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 - ✉️ **Email:** pkeiner08@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/alder-andres](https://linkedin.com/in/alder-andres)  
